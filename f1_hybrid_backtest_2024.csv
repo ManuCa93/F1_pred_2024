@@ -1,0 +1,25 @@
+GP,Pred_Podium,Real_Podium,Winner_Correct,Podium_Accuracy
+Bahrain Grand Prix,"VER,PER,SAI","VER,PER,SAI",True,3
+Saudi Arabian Grand Prix,"VER,PER,SAI","VER,PER,LEC",True,2
+Australian Grand Prix,"SAI,PER,LEC","SAI,LEC,NOR",True,2
+Japanese Grand Prix,"SAI,PER,LEC","VER,PER,SAI",False,2
+Chinese Grand Prix,"SAI,LEC,NOR","VER,NOR,PER",False,1
+Miami Grand Prix,"VER,NOR,PER","NOR,VER,LEC",False,2
+Emilia Romagna Grand Prix,"VER,NOR,LEC","VER,NOR,LEC",True,3
+Monaco Grand Prix,"NOR,LEC,VER","LEC,PIA,SAI",False,1
+Canadian Grand Prix,"VER,NOR,PIA","VER,NOR,RUS",True,2
+Spanish Grand Prix,"NOR,VER,RUS","VER,NOR,HAM",False,2
+Austrian Grand Prix,"VER,RUS,HAM","RUS,PIA,SAI",False,1
+British Grand Prix,"VER,HAM,PIA","HAM,VER,NOR",False,2
+Hungarian Grand Prix,"PIA,HAM,VER","PIA,NOR,HAM",True,2
+Belgian Grand Prix,"HAM,PIA,NOR","HAM,PIA,LEC",True,2
+Dutch Grand Prix,"PIA,NOR,LEC","NOR,VER,LEC",False,2
+Italian Grand Prix,"LEC,PIA,NOR","LEC,PIA,NOR",True,3
+Azerbaijan Grand Prix,"LEC,PIA,NOR","PIA,LEC,RUS",False,2
+Singapore Grand Prix,"PIA,LEC,NOR","NOR,VER,PIA",False,2
+United States Grand Prix,"LEC,PIA,NOR","LEC,SAI,VER",True,1
+Mexico City Grand Prix,"NOR,LEC,SAI","SAI,NOR,LEC",False,3
+São Paulo Grand Prix,"LEC,VER,NOR","VER,OCO,GAS",False,1
+Las Vegas Grand Prix,"RUS,LEC,VER","RUS,HAM,SAI",True,1
+Qatar Grand Prix,"VER,RUS,LEC","VER,LEC,PIA",True,2
+Abu Dhabi Grand Prix,"LEC,RUS,SAI","NOR,SAI,LEC",False,2
